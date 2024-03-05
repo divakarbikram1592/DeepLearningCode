@@ -7,6 +7,9 @@ scikit-learn
 opencv-python
 tensorflow==2.12.0
 tensorflow-datasets==4.9.4
-
+pydot
+graphviz
+gym
+pyvirtualdisplay
 
 
